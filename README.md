@@ -1,0 +1,5 @@
+- 👋 Olá, eu sou o Gustavo 
+- 👀 Eu sou interessado em aprender mais sobre programação
+- 🌱 Atualmente estou aprendendo JavaScript e Pong
+- 💞️ Procuro colaborar com meus projetos 
+- 📫 Chegue até mim pelo meu e-mail gustavo.naida@escola.pr.gov.br
